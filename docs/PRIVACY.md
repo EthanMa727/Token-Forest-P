@@ -37,7 +37,7 @@ The **only** network feature is the **leaderboard**, and it is strictly opt-in:
 
 | | |
 | --- | --- |
-| What's submitted | your chosen nickname, region, tree token total, growth stage |
+| What's submitted | your chosen nickname, region, current species, tree token total, growth stage |
 | How you're identified | an anonymous account — no email, no name, no machine info |
 | Opting out | turning the leaderboard off **deletes your entry** from the server |
 

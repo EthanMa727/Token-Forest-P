@@ -39,7 +39,7 @@ Token Forest counts **all four token classes** — input, output, cache read, ca
 Currently the tree only grows while the app is running. "Offline catch-up growth" is on the [roadmap](ROADMAP.md).
 
 ### Can I have more than one tree?
-You unlock and switch between species (Apple, Cherry Blossom, Cactus — each keeps its own progress, fruit, and decorations). And yes, a fourth species arrives this holiday season. 🎄
+You unlock and switch between **four** species (Apple, Cherry Blossom, Cactus, and the 🎄 Christmas Tree — each keeps its own progress, fruit, and decorations). Each one unlocks the next as you harvest its fruit, and the Christmas Tree sits at the end of the chain. A fifth species is already sprouting in the greenhouse.
 
 ### What are fruit for?
 Mature trees produce fruit over time. Harvest by clicking, then spend fruit in the shop on decorations for your tree.
@@ -50,7 +50,7 @@ Switch to **capsule mode** — a tiny status pill in the corner — or toggle al
 ## Leaderboard
 
 ### What does the leaderboard upload?
-Nickname, region, tree token total, and growth stage — nothing else, tied to an anonymous account. See [privacy notes](PRIVACY.md).
+Nickname, region, current species, tree token total, and growth stage — nothing else, tied to an anonymous account. See [privacy notes](PRIVACY.md).
 
 ### How do I get off the leaderboard?
 Turn it off in the app. Your entry is deleted from the server, not just hidden.

@@ -40,13 +40,13 @@ Token Forest reads the token usage that Claude Code and Codex already record loc
 
 <img src="assets/growth-stages.png" alt="8 growth stages, from sprout to full tree" width="100%" />
 
-### 🌸 Multiple species, each with its own world
+### 🌸 Four species, each with its own world
 
-Unlock and switch between species, each with themed decorations you can earn and equip — torii gates, stone lanterns, wind chimes, bamboo fences, swings and more.
+Grow and switch between **four species — Apple Tree, Cherry Blossom, Cactus, and the new Christmas Tree** — each with its own fruit, its own set of stage names, and themed decorations you earn and equip: torii gates, stone lanterns, wind chimes, bamboo fences, swings, string lights and more. Each species unlocks the next as you harvest its fruit.
 
-<img src="assets/species.png" alt="Apple Tree, Cherry Blossom, Cactus — and a mystery species arriving this holiday season" width="100%" />
+<img src="assets/species.png" alt="Apple Tree, Cherry Blossom, Cactus and the Christmas Tree — four pixel species" width="100%" />
 
-> 🎄 **Something is coming this holiday season…** A fourth species is already growing in our greenhouse. Watch this repo for the reveal.
+> 🎄 **The Christmas Tree has arrived.** The holiday species just took root — hang ornaments, string the lights, and trim it all the way to *Christmas Splendor*. And a fifth species is already sprouting in our greenhouse…
 
 ### 🍎 Fruit, harvests, and a tiny shop
 
@@ -64,20 +64,20 @@ Big tree covering your work? Switch to a Dynamic-Island-style capsule: a tiny pi
 
 ### 🏆 Global leaderboard (opt-in)
 
-Feeling competitive? Opt in to the [global leaderboard](https://www.tokenforest.com.au) and see how your forest ranks worldwide. Strictly opt-in: only your nickname, region, tree total and growth stage are submitted — and opting out removes your entry completely.
+Feeling competitive? Opt in to the [global leaderboard](https://www.tokenforest.com.au) and see how your forest ranks worldwide — every player's own tree, flagged by region, lined up side by side and ranked by the tokens they've grown. Strictly opt-in: only your nickname, region, current species, tree total and growth stage are submitted — and opting out removes your entry completely.
 
 <img src="assets/leaderboard.png" alt="The global leaderboard, ranking players by the tokens they've grown into their trees" width="100%" />
 
-### 📊 Dashboard — in development
+### 📊 Dashboard — feature-complete, shipping next
 
-A report card for your forest: days planted, lifetime tokens, a growth curve over time, per-model breakdowns for Claude and Codex, and an honest cost estimate computed **offline** from a built-in price table.
+A report card for your forest: days planted, lifetime tokens, a growth curve over time, per-model breakdowns for Claude and Codex, a 26-week activity heatmap, per-project splits, and one honest line per conversation — with a cost estimate computed **offline** from a built-in price table (four token classes priced separately, cache reads at 0.1×).
 
 ### And the quality-of-life details
 
 - **Featherweight** — a native desktop widget, not a game engine. Starts fast, sips resources.
 - **Stays out of your way** — drag anywhere, snap to the corner, lock position, always-on-top toggle, launch at startup, hide/show in one click.
 - **Poke your tree** — click it. It wiggles. That's it. It's great.
-- **Speaks your language** — app in English & 中文; website in English, 中文, 日本語 and 한국어.
+- **Speaks your language** — app **and** website in English, 中文, 日本語 and 한국어.
 
 ---
 
@@ -90,7 +90,7 @@ Token Forest is built on one rule: **what happens on your machine stays on your 
 | Read the token **counts** from usage logs that Claude Code / Codex already keep locally | Read your code, prompts, or conversation content |
 | Compute growth, stats and costs entirely on-device | Send telemetry or analytics anywhere |
 | Store its state in small local files | Talk to the network at all — unless you opt in to the leaderboard |
-| (Leaderboard, opt-in only) submit nickname, region, tree total, growth stage | Upload anything else, ever |
+| (Leaderboard, opt-in only) submit nickname, region, current species, tree total, growth stage | Upload anything else, ever |
 
 Read the full [privacy notes](docs/PRIVACY.md).
 
@@ -103,7 +103,7 @@ Token Forest is in **public beta** and free to use.
 - **Download** — grab the latest Windows / macOS build from [tokenforest.com.au](https://www.tokenforest.com.au)
 - **Requirements** — Windows 10/11 or macOS; [Claude Code](https://claude.com/claude-code) and/or Codex installed (that's where the tokens come from!)
 
-⭐ **Star this repo** to follow releases and the 🎄 holiday reveal.
+⭐ **Star this repo** to follow releases and the next 🌲 species reveal.
 
 ---
 
@@ -113,8 +113,8 @@ The short version — see the full [roadmap](docs/ROADMAP.md) for details.
 
 | | |
 | --- | --- |
-| ✅ Shipped | Live token tracking (Claude Code + Codex) · 8-stage growth · 3 species with decorations · fruit & shop · bubbles · capsule mode · opt-in leaderboard · Windows & macOS |
-| 🚧 In progress | Stats dashboard · one-click installers · **🎄 a certain festive species** |
+| ✅ Shipped | Live token tracking (Claude Code + Codex) · 8-stage growth · **4 species (incl. 🎄 Christmas Tree)** with decorations · fruit & shop · bubbles · capsule mode · opt-in leaderboard · Windows & macOS · English / 中文 / 日本語 / 한국어 |
+| 🚧 In progress | Stats dashboard (feature-complete) · one-click installers · **🌲 the next species** |
 | 🔭 Next | Seasons & day/night · offline catch-up growth · achievements & streaks · more species, decorations and supported AI tools |
 
 ---
