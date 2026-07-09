@@ -2,7 +2,7 @@
 
 [English](LICENSE.md) · [简体中文](LICENSE.zh-CN.md)
 
-**Token Forest is proprietary software.** © 2026 the Token Forest team. All rights reserved.
+**Token Forest is proprietary software.** © 2026 Poietic Studio. All rights reserved.
 
 This repository contains no source code; it is the public home of the Token Forest product — documentation, announcements, and community feedback.
 

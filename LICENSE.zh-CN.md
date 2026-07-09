@@ -4,7 +4,7 @@
 
 > 说明：具有法律效力的版本以英文版 [LICENSE.md](LICENSE.md) 为准；本中文版仅供阅读参考。
 
-**Token Forest 是专有软件（proprietary software）。** © 2026 Token Forest 团队，保留一切权利。
+**Token Forest 是专有软件（proprietary software）。** © 2026 Poietic Studio，保留一切权利。
 
 本仓库不含源代码；它是 Token Forest 产品的公开主页——文档、公告和社区反馈。
 

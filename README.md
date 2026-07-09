@@ -139,7 +139,7 @@ More in the full [FAQ](docs/FAQ.md).
 
 ## 👥 Team
 
-Token Forest is built by a small team that spends *way* too many tokens — which is how we know the tree grows.
+Token Forest is built by **Poietic Studio** — a small team that spends *way* too many tokens, which is how we know the tree grows.
 
 | | Name | GitHub |
 | --- | --- | --- |
@@ -169,7 +169,7 @@ What we'd love from you here: [bug reports](../../issues/new/choose), feature id
 
 ---
 
-© 2026 the Token Forest team. All artwork and branding are all rights reserved — see [LICENSE.md](LICENSE.md).
+© 2026 Poietic Studio. All artwork and branding are all rights reserved — see [LICENSE.md](LICENSE.md).
 
 🌳 *May your context be long and your forest ever green.*
 
