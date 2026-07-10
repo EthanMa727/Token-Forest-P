@@ -103,6 +103,26 @@ Token Forest is in **public beta** and free to use.
 - **Download** — grab the latest Windows / macOS build from [tokenforest.com.au](https://www.tokenforest.com.au)
 - **Requirements** — Windows 10/11 or macOS; [Claude Code](https://claude.com/claude-code) and/or Codex installed (that's where the tokens come from!)
 
+### 🍎 First launch on macOS
+
+These builds aren't code-signed yet, so macOS asks you to approve the app on first launch (it's safe, and you only do this once):
+
+1. Open the `.dmg` and drag **TokenForest.app** onto the **Applications** folder shown next to it.
+2. Open it from Applications → a *"could not verify"* dialog appears → click **Done** (do **not** click *Move to Bin* — that deletes it).
+3. Open **System Settings → Privacy & Security**, and scroll down to the **Security** section:
+
+   ![Privacy & Security in System Settings](download_guide_1.png)
+
+4. Click **Open Anyway** next to the "TokenForest was blocked" message, authenticate, then confirm **Open Anyway** once more:
+
+   ![The Open Anyway button](download_guide_2.png)
+
+After this one-time approval, it opens normally every time. *(Prefer the terminal? `xattr -dr com.apple.quarantine /Applications/TokenForest.app` does the same.)*
+
+### 🪟 First launch on Windows
+
+**Fully extract the ZIP first** (right-click → Extract All), then run `TokenForest.exe` from the extracted folder — double-clicking it *inside* the zip won't work. If SmartScreen appears, click **More info → Run anyway**.
+
 ⭐ **Star this repo** to follow releases and the next 🌲 species reveal.
 
 ---

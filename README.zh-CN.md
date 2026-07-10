@@ -103,6 +103,26 @@ Token Forest 目前处于**公开测试（public beta）**，免费使用。
 - **下载** —— 前往官网 [tokenforest.com.au](https://www.tokenforest.com.au) 获取最新的 Windows / macOS 版本
 - **环境要求** —— Windows 10/11 或 macOS；安装有 [Claude Code](https://claude.com/claude-code) 和/或 Codex（token 就是从这儿来的！）
 
+### 🍎 macOS 首次打开
+
+当前版本尚未签名，macOS 首次打开会让你手动放行一次（安全，只需一次）：
+
+1. 打开 `.dmg`，把 **TokenForest.app** 拖到旁边的 **「应用程序」** 文件夹里。
+2. 从「应用程序」里打开它 → 弹出「无法验证」提示 → 点 **Done**（**不要**点 *Move to Bin*，那会删掉它）。
+3. 打开 **系统设置 → 隐私与安全性**，往下滚到 **「安全性」** 一段：
+
+   ![系统设置里的隐私与安全性](download_guide_1.png)
+
+4. 在「已阻止使用 TokenForest」旁点 **「仍要打开 / Open Anyway」**，验证身份，再确认一次 **Open Anyway**：
+
+   ![仍要打开按钮](download_guide_2.png)
+
+放行这一次之后，以后双击就能正常打开。*（会用终端的话，`xattr -dr com.apple.quarantine /Applications/TokenForest.app` 等效。）*
+
+### 🪟 Windows 首次打开
+
+**先把 ZIP 完整解压**（右键 → 全部解压），再进解压出的文件夹运行 `TokenForest.exe` —— 直接在压缩包里双击打不开。若弹 SmartScreen，点 **更多信息 → 仍要运行**。
+
 ⭐ **Star 本仓库**，第一时间获取新版本和下一个 🌲 树种的揭晓。
 
 ---
